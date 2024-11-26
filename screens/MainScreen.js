@@ -12,7 +12,7 @@ const MainScreen = () => {
       </View>
       <View style={styles.separator} />
       <View style={styles.listView}>
-        <Text style={styles.listTitle}>완료된 일</Text>
+        <Text style={styles.listTitle}>완료된 일1</Text>
       </View>
       <InputForm />
     </SafeAreaView>
